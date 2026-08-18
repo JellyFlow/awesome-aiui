@@ -41,6 +41,12 @@
 
 ## 生态与扩展
 
+### 示例
+
+- [Gyroscope Test](https://github.com/jsar-project/AIUI/tree/main/samples/gyroscope-test) - AIUI 的陀螺仪测试示例。
+
+### 工具
+
 - [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - 面向 DeepSeek Harness 的 Rokid AIUI 开发集成方案。
 
 ## 贡献

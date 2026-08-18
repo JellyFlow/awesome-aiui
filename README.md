@@ -41,6 +41,12 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 
 ## Ecosystem and Extensions
 
+### Samples
+
+- [Gyroscope Test](https://github.com/jsar-project/AIUI/tree/main/samples/gyroscope-test) - Gyroscope test sample for AIUI.
+
+### Tools
+
 - [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - Rokid AIUI development integration for DeepSeek Harness.
 
 ## Contributing
