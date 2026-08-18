@@ -1,49 +1,40 @@
 # Awesome AIUI
 
-A curated awesome collection for building **AI UI (AIUI)** applications, including **Skills / Agents / Libraries** and related resources.
+A curated collection of AIUI-related resources focused on the Rokid AIUI ecosystem, including official documentation, development platforms, project repositories, sample cases, toolchains, and ecosystem extensions.
+
+> This repository collects both official and community AIUI resources. The "Official Resources" section serves as the primary entry point to official documentation and platforms.
 
 ## Contents
 
-- [Skills](#skills)
-- [Agents](#agents)
-- [Libraries](#libraries)
-- [Frameworks & Platforms](#frameworks--platforms)
-- [Learning Resources](#learning-resources)
+- [Official Resources](#official-resources)
+- [Project Resources](#project-resources)
+- [CLI Tools](#cli-tools)
+- [Ecosystem and Extensions](#ecosystem-and-extensions)
+- [Contributing](#contributing)
 
-## Skills
+## Official Resources
 
-- [Prompt Engineering Guide](https://www.promptingguide.ai/) - Prompt patterns and best practices.
-- [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) - Standardized tool/context integration for AI apps.
-- [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) - Tool-calling patterns for assistants.
-- [RAG Techniques](https://www.pinecone.io/learn/retrieval-augmented-generation/) - Retrieval-augmented generation fundamentals.
+- [Documentation](https://js.rokid.com/AIUI) - Official technical documentation entry for AIUI.
+- [Documentation - Quick Start](https://js.rokid.com/AIUI/guide/quickstart/quickstart?version=latest) - Official guide for getting started quickly.
+- [Design Guidelines](https://custom.rokid.com/prod/rokid_web/57e35cd3ae294d16b1b8fc8dcbb1b7c7/pc/cn/5a71b66dbc1e4689886c7aa437299f2b.html) - Design recommendations and guidelines for Rokid Glasses experiences.
+- [Rokid Academy Courses](https://t.rokid.com/n2w8u2o) - Courses and learning materials related to AIUI.
+- [AIUI Studio](https://aiui.rokid.com/) - Official development platform for AIUI.
 
-## Agents
+## Project Resources
 
-- [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) - Agent orchestration with tools and memory.
-- [LangGraph](https://github.com/langchain-ai/langgraph) - Stateful, graph-based agent workflows.
-- [AutoGen](https://github.com/microsoft/autogen) - Multi-agent conversation framework.
-- [CrewAI](https://github.com/crewAIInc/crewAI) - Role-based autonomous agent collaboration.
+- [GitHub](https://github.com/jsar-project/AIUI) - Main open-source repository for AIUI.
+- [Gitee](https://gitee.com/jsar-project/AIUI) - Domestic mirror repository for AIUI.
+- [Skill](https://github.com/jsar-project/AIUI/tree/main/skills/aiui-dev) - Skill definitions and development support for AIUI.
+- [Samples](https://github.com/jsar-project/AIUI/tree/main/samples) - Sample projects and demo code.
 
-## Libraries
+## CLI Tools
 
-- [Vercel AI SDK](https://sdk.vercel.ai/) - Build AI-native web UIs with streaming and tool use.
-- [LlamaIndex](https://github.com/run-llama/llama_index) - Data framework for LLM apps.
-- [LangChain](https://github.com/langchain-ai/langchain) - LLM app development abstractions.
-- [Transformers](https://github.com/huggingface/transformers) - Foundation models and inference tooling.
+- [aix](https://github.com/jsar-project/aix) - One of the CLI tools in the AIUI ecosystem.
 
-## Frameworks & Platforms
+## Ecosystem and Extensions
 
-- [Gradio](https://github.com/gradio-app/gradio) - Rapid AI app interfaces for demos and products.
-- [Streamlit](https://github.com/streamlit/streamlit) - Data/AI app UI with Python.
-- [Chainlit](https://github.com/Chainlit/chainlit) - Conversational AI app framework.
-- [Next.js](https://nextjs.org/) - Production-ready React framework for AI web apps.
+- [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - Rokid AIUI development integration for DeepSeek Harness.
 
-## Learning Resources
+## Contributing
 
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Practical examples for LLM apps.
-- [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) - Applied GenAI courses.
-- [Anthropic Docs](https://docs.anthropic.com/) - Claude APIs and engineering guides.
-
----
-
-Contributions are welcome. Feel free to submit PRs to add high-quality AIUI skills, agents, libraries, and tools.
+Contributions are welcome. Feel free to open a PR to add more high-quality official AIUI resources, project examples, and ecosystem tools.
