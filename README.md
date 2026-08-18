@@ -1,10 +1,12 @@
-# Awesome AIUI
+<h1 align="center">Awesome AIUI</h1>
 
 <p align="center">
   <img src="./logo.png" alt="Awesome AIUI logo" width="220" />
 </p>
 
-[English](./README.md) | [简体中文](./README.zh-CN.md)
+<p align="center">
+  <a href="./README.md">English</a> | <a href="./README.zh-CN.md">简体中文</a>
+</p>
 
 A curated collection of AIUI-related resources focused on the Rokid AIUI ecosystem, including official documentation, development platforms, project repositories, sample cases, toolchains, and ecosystem extensions.
 

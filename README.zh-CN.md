@@ -1,10 +1,12 @@
-# Awesome AIUI
+<h1 align="center">Awesome AIUI</h1>
 
 <p align="center">
-  <img src="./logo.png" alt="Awesome AIUI logo" width="220" />
+  <img src="./logo.png" alt="Awesome AIUI logo" width="400" />
 </p>
 
-[English](./README.md) | [简体中文](./README.zh-CN.md)
+<p align="center">
+  <a href="./README.md">English</a> | <a href="./README.zh-CN.md">简体中文</a>
+</p>
 
 精选的 AIUI 相关资源合集，聚焦 Rokid AIUI 生态，包含官方文档、开发平台、项目仓库、示例案例、命令行工具与生态扩展。
 
