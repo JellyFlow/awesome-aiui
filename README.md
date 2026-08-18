@@ -1,5 +1,11 @@
 # Awesome AIUI
 
+<p align="center">
+  <img src="./logo.png" alt="Awesome AIUI logo" width="220" />
+</p>
+
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
 A curated collection of AIUI-related resources focused on the Rokid AIUI ecosystem, including official documentation, development platforms, project repositories, sample cases, toolchains, and ecosystem extensions.
 
 > This repository collects both official and community AIUI resources. The "Official Resources" section serves as the primary entry point to official documentation and platforms.
@@ -18,7 +24,7 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 - [Documentation - Quick Start](https://js.rokid.com/AIUI/guide/quickstart/quickstart?version=latest) - Official guide for getting started quickly.
 - [Design Guidelines](https://custom.rokid.com/prod/rokid_web/57e35cd3ae294d16b1b8fc8dcbb1b7c7/pc/cn/5a71b66dbc1e4689886c7aa437299f2b.html) - Design recommendations and guidelines for Rokid Glasses experiences.
 - [Rokid Academy Courses](https://t.rokid.com/n2w8u2o) - Courses and learning materials related to AIUI.
-- [AIUI Studio](https://aiui.rokid.com/) - Official development platform for AIUI.
+- [AIUI Studio](https://aiui-global.rokid.com/) - Official development platform for AIUI.
 
 ## Project Resources
 
