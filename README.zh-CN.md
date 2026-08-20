@@ -17,6 +17,7 @@
 - [官方资源](#官方资源)
 - [项目资源](#项目资源)
 - [CLI 工具](#cli-工具)
+- [文章](#文章)
 - [生态与扩展](#生态与扩展)
 - [贡献](#贡献)
 
@@ -38,6 +39,10 @@
 ## CLI 工具
 
 - [aix](https://github.com/jsar-project/aix) - AIUI 生态中的命令行工具之一。
+
+## 文章
+
+- [AIUI 里的焦点与跳转机制：用 Ink、状态机和本地服务组织交互](https://mp.weixin.qq.com/s/ndZ3XwePXrgZt2esQALkHw)（若城）
 
 ## 生态与扩展
 

@@ -17,6 +17,7 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 - [Official Resources](#official-resources)
 - [Project Resources](#project-resources)
 - [CLI Tools](#cli-tools)
+- [Articles](#articles)
 - [Ecosystem and Extensions](#ecosystem-and-extensions)
 - [Contributing](#contributing)
 
@@ -38,6 +39,10 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 ## CLI Tools
 
 - [aix](https://github.com/jsar-project/aix) - One of the CLI tools in the AIUI ecosystem.
+
+## Articles
+
+- [AIUI 里的焦点与跳转机制：用 Ink、状态机和本地服务组织交互](https://mp.weixin.qq.com/s/ndZ3XwePXrgZt2esQALkHw) by 若城
 
 ## Ecosystem and Extensions
 
