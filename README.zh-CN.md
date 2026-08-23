@@ -53,6 +53,7 @@
 ### 工具
 
 - [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - 面向 DeepSeek Harness 的 Rokid AIUI 开发集成方案。
+- [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - 面向 Rokid Glasses AIUI Agent 的日志工具。
 
 ## 贡献
 

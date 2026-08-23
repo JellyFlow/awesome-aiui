@@ -53,6 +53,7 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 ### Tools
 
 - [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - Rokid AIUI development integration for DeepSeek Harness.
+- [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - Log tool for Rokid Glasses AIUI Agent.
 
 ## Contributing
 
