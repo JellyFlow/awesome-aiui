@@ -48,6 +48,7 @@
 
 ### 示例
 
+- [Voice-Interaction Pet Demo](https://github.com/sengmitnick/aiui-asr-pet-demo) - 展示语音命名与系统唤醒后的语音交互。
 - [Gyroscope Test](https://github.com/jsar-project/AIUI/tree/main/samples/gyroscope-test) - AIUI 的陀螺仪测试示例。
 
 ### 工具
