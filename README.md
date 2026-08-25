@@ -48,7 +48,7 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 
 ### Samples
 
-- [Voice-Interaction Pet Demo](https://github.com/sengmitnick/aiui-asr-pet-demo) - Demonstrates voice naming and system wake-up interactions.
+- [Voice-Interaction Pet Demo](https://github.com/sengmitnick/aiui-asr-pet-demo) - Demonstrates voice naming and system wake-up interactions. By [@sengmitnick](https://github.com/sengmitnick).
 - [Gyroscope Test](https://github.com/jsar-project/AIUI/tree/main/samples/gyroscope-test) - Gyroscope test sample for AIUI.
 
 ### Tools
