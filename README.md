@@ -43,6 +43,7 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 ## Articles
 
 - [AIUI 里的焦点与跳转机制：用 Ink、状态机和本地服务组织交互](https://mp.weixin.qq.com/s/ndZ3XwePXrgZt2esQALkHw) by 若城
+- [乐奇AIUI音频失效排查实战：到底是你哑了，还是我聋了？怎么没声？](https://forum.rokid.com/post/detail/3636) by Unievolve999
 
 ## Ecosystem and Extensions
 
