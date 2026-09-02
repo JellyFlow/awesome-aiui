@@ -14,11 +14,15 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 
 ## Contents
 
+- [Contents](#contents)
 - [Official Resources](#official-resources)
 - [Project Resources](#project-resources)
 - [CLI Tools](#cli-tools)
 - [Articles](#articles)
 - [Ecosystem and Extensions](#ecosystem-and-extensions)
+  - [AIUI open-source project](#aiui-open-source-project)
+  - [Samples](#samples)
+  - [Tools](#tools)
 - [Contributing](#contributing)
 
 ## Official Resources
@@ -46,6 +50,9 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 - [乐奇AIUI音频失效排查实战：到底是你哑了，还是我聋了？怎么没声？](https://forum.rokid.com/post/detail/3636) by Unievolve999
 
 ## Ecosystem and Extensions
+
+### AIUI open-source project
+- [AIUI Sports Agents](https://github.com/EasonZhu1997/AIUI-Sports-Agents) (EasonZhu1997)
 
 ### Samples
 
