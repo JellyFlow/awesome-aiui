@@ -52,7 +52,7 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 ## Ecosystem and Extensions
 
 ### AIUI open-source project
-- [AIUI Sports Agents](https://github.com/EasonZhu1997/AIUI-Sports-Agents) - Run, Bike and Rower AIUI source monorepo with evidence-first benchmarks. By [@EasonZhu1997](https://github.com/EasonZhu1997)
+- [AIUI Sports Agents](https://github.com/EasonZhu1997/AIUI-Sports-Agents) - Run, Bike and Rower AIUI source monorepo. By [@EasonZhu1997](https://github.com/EasonZhu1997)
 
 ### Samples
 
