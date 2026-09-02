@@ -51,7 +51,7 @@
 
 ## 生态与扩展
 
-### AIUI开源项目
+### 开源项目
 - [AIUI Sports Agents](https://github.com/EasonZhu1997/AIUI-Sports-Agents) (EasonZhu1997)
 
 ### 示例
