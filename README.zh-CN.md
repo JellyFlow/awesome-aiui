@@ -14,11 +14,15 @@
 
 ## 目录
 
+- [目录](#目录)
 - [官方资源](#官方资源)
 - [项目资源](#项目资源)
 - [CLI 工具](#cli-工具)
 - [文章](#文章)
 - [生态与扩展](#生态与扩展)
+  - [开源项目](#开源项目)
+  - [示例](#示例)
+  - [工具](#工具)
 - [贡献](#贡献)
 
 ## 官方资源
@@ -46,6 +50,9 @@
 - [乐奇AIUI音频失效排查实战：到底是你哑了，还是我聋了？怎么没声？](https://forum.rokid.com/post/detail/3636)（Unievolve999）
 
 ## 生态与扩展
+
+### AIUI开源项目
+- [AIUI Sports Agents](https://github.com/EasonZhu1997/AIUI-Sports-Agents) (EasonZhu1997)
 
 ### 示例
 
