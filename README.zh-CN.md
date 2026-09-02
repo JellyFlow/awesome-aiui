@@ -52,11 +52,11 @@
 ## 生态与扩展
 
 ### 开源项目
-- [AIUI Sports Agents](https://github.com/EasonZhu1997/AIUI-Sports-Agents) (EasonZhu1997)
+- [AIUI Sports Agents](https://github.com/EasonZhu1997/AIUI-Sports-Agents) - 跑步、单车、划船机 AIUI源码单仓库。作者:[@EasonZhu1997](https://github.com/EasonZhu1997)
 
 ### 示例
 
-- [Voice-Interaction Pet Demo](https://github.com/sengmitnick/aiui-asr-pet-demo) - 展示语音命名与系统唤醒后的语音交互。作者：[@sengmitnick](https://github.com/sengmitnick)。
+- [Voice-Interaction Pet Demo](https://github.com/sengmitnick/aiui-asr-pet-demo) - 展示语音命名与系统唤醒后的语音交互。作者:[@sengmitnick](https://github.com/sengmitnick)
 - [Gyroscope Test](https://github.com/jsar-project/AIUI/tree/main/samples/gyroscope-test) - AIUI 的陀螺仪测试示例。
 
 ### 工具
