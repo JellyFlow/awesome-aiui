@@ -51,18 +51,19 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 
 ## Ecosystem and Extensions
 
-### AIUI open-source project
+### Projects
+
 - [AIUI Sports Agents](https://github.com/EasonZhu1997/AIUI-Sports-Agents) - Run, Bike and Rower AIUI source monorepo. By [@EasonZhu1997](https://github.com/EasonZhu1997)
 
 ### Samples
 
-- [Voice-Interaction Pet Demo](https://github.com/sengmitnick/aiui-asr-pet-demo) - Demonstrates voice naming and system wake-up interactions. By [@sengmitnick](https://github.com/sengmitnick).
-- [Gyroscope Test](https://github.com/jsar-project/AIUI/tree/main/samples/gyroscope-test) - Gyroscope test sample for AIUI.
+- [Voice-Interaction Pet Demo](https://github.com/sengmitnick/aiui-asr-pet-demo) - Demonstrates voice naming and system wake-up interactions By [@sengmitnick](https://github.com/sengmitnick)
+- [Gyroscope Test](https://github.com/jsar-project/AIUI/tree/main/samples/gyroscope-test) - Gyroscope test sample for AIUI
 
 ### Tools
 
-- [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - Rokid AIUI development integration for DeepSeek Harness.
-- [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - Log tool for Rokid Glasses AIUI Agent.
+- [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - Rokid AIUI development integration for DeepSeek Harness
+- [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - Log tool for Rokid Glasses AIUI Agent
 
 ## Contributing
 
