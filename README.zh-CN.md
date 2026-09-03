@@ -27,18 +27,18 @@
 
 ## 官方资源
 
-- [文档](https://js.rokid.com/AIUI) - AIUI 官方技术文档入口。
-- [文档 - 快速开始](https://js.rokid.com/AIUI/guide/quickstart/quickstart?version=latest) - 官方快速上手指南。
-- [设计规范](https://custom.rokid.com/prod/rokid_web/57e35cd3ae294d16b1b8fc8dcbb1b7c7/pc/cn/5a71b66dbc1e4689886c7aa437299f2b.html) - 面向 Rokid Glasses 体验的设计建议与规范。
-- [乐奇学院课程](https://t.rokid.com/n2w8u2o) - AIUI 相关课程与学习资料。
-- [AIUI Studio](https://aiui.rokid.com/) - AIUI 官方开发平台。
+- [文档](https://js.rokid.com/AIUI) - AIUI 官方技术文档入口
+- [文档 - 快速开始](https://js.rokid.com/AIUI/guide/quickstart/quickstart?version=latest) - 官方快速上手指南
+- [设计规范](https://custom.rokid.com/prod/rokid_web/57e35cd3ae294d16b1b8fc8dcbb1b7c7/pc/cn/5a71b66dbc1e4689886c7aa437299f2b.html) - 面向 Rokid Glasses 体验的设计建议与规范
+- [乐奇学院课程](https://t.rokid.com/n2w8u2o) - AIUI 相关课程与学习资料
+- [AIUI Studio](https://aiui.rokid.com/) - AIUI 官方开发平台
 
 ## 项目资源
 
-- [GitHub](https://github.com/jsar-project/AIUI) - AIUI 开源主仓库。
-- [Gitee](https://gitee.com/jsar-project/AIUI) - AIUI 国内镜像仓库。
-- [Skill](https://github.com/jsar-project/AIUI/tree/main/skills/aiui-dev) - AIUI 相关 Skill 定义与开发支持。
-- [Samples](https://github.com/jsar-project/AIUI/tree/main/samples) - 示例项目与演示代码。
+- [GitHub](https://github.com/jsar-project/AIUI) - AIUI 开源主仓库
+- [Gitee](https://gitee.com/jsar-project/AIUI) - AIUI 国内镜像仓库
+- [Skill](https://github.com/jsar-project/AIUI/tree/main/skills/aiui-dev) - AIUI 相关 Skill 定义与开发支持
+- [Samples](https://github.com/jsar-project/AIUI/tree/main/samples) - 示例项目与演示代码
 
 ## CLI 工具
 
@@ -52,17 +52,17 @@
 ## 生态与扩展
 
 ### 开源项目
-- [AIUI Sports Agents](https://github.com/EasonZhu1997/AIUI-Sports-Agents) - 跑步、单车、划船机 AIUI源码单仓库。作者:[@EasonZhu1997](https://github.com/EasonZhu1997)
+- [AIUI Sports Agents](https://github.com/EasonZhu1997/AIUI-Sports-Agents) - 跑步、单车、划船机 AIUI 源码单仓库 [@EasonZhu1997](https://github.com/EasonZhu1997)
 
 ### 示例
 
-- [Voice-Interaction Pet Demo](https://github.com/sengmitnick/aiui-asr-pet-demo) - 展示语音命名与系统唤醒后的语音交互。作者:[@sengmitnick](https://github.com/sengmitnick)
-- [Gyroscope Test](https://github.com/jsar-project/AIUI/tree/main/samples/gyroscope-test) - AIUI 的陀螺仪测试示例。
+- [Voice-Interaction Pet Demo](https://github.com/sengmitnick/aiui-asr-pet-demo) - 展示语音命名与系统唤醒后的语音交互 [@sengmitnick](https://github.com/sengmitnick)
+- [Gyroscope Test](https://github.com/jsar-project/AIUI/tree/main/samples/gyroscope-test) - AIUI 的陀螺仪测试示例
 
 ### 工具
 
-- [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - 面向 DeepSeek Harness 的 Rokid AIUI 开发集成方案。
-- [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - 面向 Rokid Glasses AIUI Agent 的日志工具。
+- [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - 面向 DeepSeek Harness 的 Rokid AIUI 开发集成方案
+- [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - 面向 Rokid Glasses AIUI Agent 的日志工具
 
 ## 贡献
 
